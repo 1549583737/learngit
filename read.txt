@@ -1,1 +1,0 @@
-Gis has mutable index call stage.
